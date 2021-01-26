@@ -2,19 +2,19 @@
 
 ## I love my cats 😺😺 (Pulce & Lola aka Cru), I'm a developer and I love exploring and learning every new tech things!
 
+## Who am I
+
+- 🌱 I'm currently learning everything 🤣
+- 🎮 Love videogames
+- ⚽ I'm an AC Milan supporter ❤️⚫
+- 👯 I'm looking to collaborate with other content creators
+
 ## 2021 Goals:
 
 - 🥅 Contribute more to Open Source projects
 - 🥅 Build Coding with Cats, a place where share tips for developer
 - 🥅 Migrate GlutiFree from native to Flutter
 - 🥅 Create a course for beginners
-
-## 
-
-- 🌱 I'm currently learning everything 🤣
-- 🎮 Love videogames
-- ⚽ I'm an AC Milan supporter ❤️⚫
-- 👯 I'm looking to collaborate with other content creators
 
 ### Connect with me:
 
